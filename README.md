@@ -6,6 +6,8 @@ Simple POST and GET Http Helper for ease-of coding for Android.
 
 Usage
 =====
+Copy the "DroidHttp.jar" into your Android projects /lib directory and that's it.. Alternately you can copy the "HttpConnect.java" file into you src folder and use it too.. Follows usage in detail.. enjoy!
+
 POST Method Usage:
 
     public class CallingActivity extends Activity{
